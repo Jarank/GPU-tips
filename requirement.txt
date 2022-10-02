@@ -2,6 +2,4 @@ matplotlib
 torchvision
 torch>=1.0.0
 pandas
-plotly
-cufflinks
 psutil
